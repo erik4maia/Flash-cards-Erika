@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Curiosidade',
     'Quantas fases a lua possui e quais são elas?',
-    'Possui quatro fases,sendo elas: nova, crescente, cheia e minguante.'
+    'Possui quatro fases, sendo elas: nova, crescente, cheia e minguante.'
 )
